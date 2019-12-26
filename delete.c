@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 #define MAX 20
-#define MIN_LIMIT 4
+#define MIN_LIMIT 7
 
 struct bintr {
     char *word;
